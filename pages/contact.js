@@ -1,8 +1,8 @@
-import header from "../components/header"
+import navbar from "../components/navbar"
 
 const contact = ()=>{
     return `
-    ${header()}
+    ${navbar()}
     <section class="contact_section layout_padding">
   <div class="container">
     <div class="row">

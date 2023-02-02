@@ -48,6 +48,12 @@ const ListProduct = [
         category: 6
     }
 ]
+const MenuList = [
+    {name:'home',link:'/'},
+    {name:'product',link:'/product'},
+    {name:'contact',link:'/contact'},
+    {name:'signin',link:'/signin'}
+]
 const ListCategory = [
     {
         id:1,
@@ -81,5 +87,4 @@ const ListCategory = [
     }
 ]
 
-export {ListProduct};
-export {ListCategory}
+export {ListProduct,ListCategory,MenuList};

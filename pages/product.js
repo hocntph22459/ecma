@@ -1,9 +1,9 @@
-import header from "../components/header"
+import navbar from "../components/navbar"
 import { ListProduct } from "../data/data"
 
 const productpage = () => {
   return `
-        ${header()}
+        ${navbar()}
         <div class="heading_container heading_center">
         <h2>
           Latest Watches

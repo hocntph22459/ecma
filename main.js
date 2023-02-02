@@ -21,7 +21,7 @@ router.on('/signin',()=>{
 router.on('/product',()=>{
   render(app,productpage)
 })
-router.on('/contact-us',()=>{
+router.on('/contact',()=>{
   render(app,contact)
 })
 router.on('/404',()=>{
