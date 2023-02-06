@@ -12,7 +12,7 @@ const ListProduct = [
         name:"Fresh Lime Roasted Salmon",
         price:10,
         desc:"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
-        image:"./src/image/index/image 26.png",
+        image:"",
         category:1
     },
     {
@@ -20,7 +20,7 @@ const ListProduct = [
         name:"The Best Easy One Pot Chicken and Rice",
         price:20,
         desc:"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
-        image:"./src/image/index/image 26 (1).jpg",
+        image:"",
         category: 3
     },
     {
@@ -28,7 +28,7 @@ const ListProduct = [
         name:"Fresh and Healthy Mixed Mayonnaise ",
         price:50,
         desc:"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
-        image:"./src/image/index/image 26 (2).jpg",
+        image:"",
         category: 4
     },
     {
@@ -36,7 +36,7 @@ const ListProduct = [
         name:"The Creamiest Creamy Chicken",
         price:60,
         desc:"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
-        image:"./src/image/index/image 26 (3).jpg",
+        image:"",
         category: 5
     },
     {
@@ -44,7 +44,7 @@ const ListProduct = [
         name:"Fruity Pancake with Orange & Blueberry",
         price:15,
         desc:"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
-        image:"./src/image/index/image 26 (4).jpg",
+        image:"",
         category: 6
     }
 ]

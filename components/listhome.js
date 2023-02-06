@@ -1,6 +1,6 @@
 import { ListProduct } from "../data/data"
 
-const listhome = ({list}) => {
+const listhome = ({ list }) => {
   return `
   ${ListProduct.map((item) => {
     return `
@@ -8,12 +8,12 @@ const listhome = ({list}) => {
         <div class="col-sm-6 col-xl-3">
           <div class="box">
               <div class="img-box">
-  <a href="?id=${item.id}" alt=""><img src="${item.image}" alt=""></a>
+  <a href="/product/${item.id}" alt=""><img src="${item.image}" alt=""></a>
               </div>
               <div class="detail-box">
-                <h6>
-                  ${item.name}
-                </h6>
+              <a href="/product/${item.id}" alt=""><h6>
+              ${item.name}
+            </h6></a>
                 <h6>
                   giá tiền:
                   <span>
